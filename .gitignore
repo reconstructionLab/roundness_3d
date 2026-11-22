@@ -1,4 +1,6 @@
-data/
+__pycache__/
 .vscode/
+/data/
 to_do_list.txt
 notes.txt
+.DS_Store
