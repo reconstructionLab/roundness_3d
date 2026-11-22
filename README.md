@@ -1,12 +1,12 @@
 # Grain roundness computation in 3D
 
-This repository contains the code for both a new 3D roundness metric and the associated analyses, which we present in our paper (see citation below)
+This repository contains the code for both a new 3D roundness metric and the associated analyses, which we present in our paper (see citation below). This roundness metric is applicable for analyses in the Earth sciences (sedimentary geology, geomorphology) and engineering disciplines.
 
 We include our new 3D roundness metric as well as implementations of other 3D roundness metrics (e.g., Wadell). We also include a workflow for processing CT imagery of grains and algorithms for generating the synthetic grains in our paper.
 
 # Organization
 
-src/roundness_3d/ contains .py files
+src/ contains .py files
 analyses/ contains folders for each figure in the paper, within which there are .ipynb files where we conducted analyses and generated plots
 
 # How to use
